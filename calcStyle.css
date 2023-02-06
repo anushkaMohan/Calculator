@@ -1,0 +1,25 @@
+.container{
+    border : 10px  solid lightgray;
+    
+    margin-left : 50%;
+    margin-top  : 20%;
+    margin-right : 50%;
+    width : 320px;
+    height : 510px;
+}
+.col{
+    border : 1px solid black;
+    height : 70px;
+    width : 80px;
+
+}
+#display{
+   height : 140px;
+}
+#zero{
+    width: 10 px;
+}
+
+.last{
+   background-color: crimson;
+}
